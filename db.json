@@ -6,10 +6,24 @@
 	"firstname":"sanka",
 	"lastname":"dilshan",
 	"password":"12345qw"
+	},
+      {
+	"id":1,
+	"username":"sanduni",
+	"firstname":"perera",
+	"lastname":"perera",
+	"password":"125we"
+  
+	},
+	  {
+	"id":1,
+	"username":"nimal1234",
+	"firstname":"ranathunga",
+	"lastname":"dilshan",
+	"password":"1dfggf234"
     
 	
 	}
- 
  ]
 
 }
