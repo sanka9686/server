@@ -2,8 +2,8 @@
 "users":[
   {"id":1,
     "username":"sdm",
-    "firstname":sanka,
-    "lastname":dilshan,
+    "firstname":"sanka",
+    "lastname":"dilshan",
     "password":"123456w"
   
   }
